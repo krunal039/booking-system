@@ -1,0 +1,46 @@
+<link rel="stylesheet" href="controllers/sessions/sessions.css">
+<article data-ng-controller="sessionCtrl as vm">
+    <div class="panel panel-default">
+        <div class="panel-heading">{{vm.session.SessionTitle}}</div>
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-sm-6 col-xs-12">
+                    <small><b>Start Date : </b>{{vm.session.SessionStartDate | moment :'MMMM Do YYYY, h:mm a'}}</small>
+                </div>
+                <div class="col-sm-3 col-xs-12"></div>
+                <div class="col-sm-6 col-xs-12">
+                    <small><b>End Date : </b>{{vm.session.SessionEndDate | moment :'MMMM Do YYYY, h:mm a'}}</small>
+                </div>
+                <div class="col-sm-6 col-xs-12">
+                    <small><b>Description : </b><span class="item-dec"
+                                                      ng-bind-html="vm.session.SessionDescription"></span></small>
+                </div>
+                <div class="col-sm-6 col-xs-12">
+                    <small><b>Location : </b><span class="item-dec" ng-bind-html="vm.session.SessionLocation"></span>
+                    </small>
+                </div>
+            </div>
+        </div>
+    </div>
+    <form>
+        <fieldset>
+            <div class="form-group">
+                <label for="employeeNameInput">Name</label>
+                <input type="text" id="employeeNameInput" required="required" class="form-control" placeholder="Name">
+            </div>
+            <div class="form-group">
+                <label for="locationSelect">Select Location</label>
+                <select id="locationSelect" class="form-control">
+                    <option  data-ng-repeat="sl in vm.locations">{{sl}}</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="locationBU">Select Business Unit</label>
+                <select id="locationBU" class="form-control">
+                    <option  data-ng-repeat="bu in vm.bu">{{bu}}</option>
+                </select>
+            </div>
+            <button type="submit" data-ng-click="submitDate();" class="btn btn-primary">Submit</button>
+        </fieldset>
+    </form>
+</article>

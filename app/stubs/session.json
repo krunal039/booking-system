@@ -1,0 +1,85 @@
+{
+  "d": {
+    "__metadata": {
+      "id": "478ba41e-2496-4798-b615-6383fadeaab7",
+      "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'bc5fea3d-7dd3-45d9-a0bf-927b315ae194')/Items(1)",
+      "etag": "\"5\"",
+      "type": "SP.Data.SessionsListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'bc5fea3d-7dd3-45d9-a0bf-927b315ae194')/Items(1)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'bc5fea3d-7dd3-45d9-a0bf-927b315ae194')/Items(1)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'bc5fea3d-7dd3-45d9-a0bf-927b315ae194')/Items(1)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'bc5fea3d-7dd3-45d9-a0bf-927b315ae194')/Items(1)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'bc5fea3d-7dd3-45d9-a0bf-927b315ae194')/Items(1)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'bc5fea3d-7dd3-45d9-a0bf-927b315ae194')/Items(1)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'bc5fea3d-7dd3-45d9-a0bf-927b315ae194')/Items(1)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'bc5fea3d-7dd3-45d9-a0bf-927b315ae194')/Items(1)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'bc5fea3d-7dd3-45d9-a0bf-927b315ae194')/Items(1)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'bc5fea3d-7dd3-45d9-a0bf-927b315ae194')/Items(1)/Folder"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'bc5fea3d-7dd3-45d9-a0bf-927b315ae194')/Items(1)/ParentList"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 1,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01001CF019E7CCF3CF46B90B17470E5C2A7B003B12800931C42642870B688C492D26E4",
+    "Title": null,
+    "SessionTitle": "Session-1",
+    "SessionDescription": "<div class=\"ExternalClassA66AAC76A26D45BD853DF8A577D56C4B\"><p>S\u200bession 1 <span style=\"line-height&#58;20.8px;\">Description</span>\u200b<br></p></div>",
+    "SessionStartDate": "2016-05-23T20:00:00Z",
+    "SessionStatus": "Open",
+    "SessionSeats": 100,
+    "SessionLocation": "<div class=\"ExternalClassD4166181B5EB4E9D92B6E3E3B903531C\">James Bond Office<br></div>",
+    "SessionEndDate": "2016-05-23T21:00:00Z",
+    "ID": 1,
+    "Modified": "2016-05-20T18:43:31Z",
+    "Created": "2016-05-20T10:06:07Z",
+    "AuthorId": 17,
+    "EditorId": 17,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "66bd0931-7aea-4911-9785-8768d656f7e5"
+  }
+}

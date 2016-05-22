@@ -1,0 +1,11 @@
+<div data-ng-controller="quicklaunch as vm"
+     id="sideNavBox" class="ms-dialogHidden ms-forceWrap ms-noList" style="padding-bottom:20px ">
+
+    <ul class="nav nav-tabs">
+        <li role="presentation" data-ng-repeat="route in vm.navRoutes"
+            data-ng-class="{active: vm.isCurrent(route)}">
+            <a href="#{{route.url}}"
+               data-ng-bind-html="route.config.settings.content"></a>
+        </li>
+    </ul>
+</div>

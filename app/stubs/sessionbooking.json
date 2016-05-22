@@ -1,0 +1,318 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "c98116a1-c140-4bdc-8c7f-78cd65a1207f",
+          "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'9e565c40-d3b1-4168-8b12-9adcc57b28c3')/Items(1)",
+          "etag": "\"1\"",
+          "type": "SP.Data.SessionBookingListItem"
+        },
+        "Author": {
+          "__metadata": {
+            "id": "23ee0f41-b262-458e-9a8e-05567a00b197",
+            "type": "SP.Data.UserInfoItem"
+          },
+          "ID": 17,
+          "FirstName": "Krunal",
+          "LastName": "Patel",
+          "Title": "Krunal Patel"
+        },
+        "Id": 1,
+        "SessionId": 1,
+        "EmployeeLocation": "MSQ",
+        "EmployeeBusinessArea": "IT",
+        "SessionBookingStatus": "Hold",
+        "ID": 1
+      },
+      {
+        "__metadata": {
+          "id": "4812ee4e-7f83-401f-857e-52f0cdbbbc6e",
+          "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'9e565c40-d3b1-4168-8b12-9adcc57b28c3')/Items(2)",
+          "etag": "\"1\"",
+          "type": "SP.Data.SessionBookingListItem"
+        },
+        "Author": {
+          "__metadata": {
+            "id": "23b56502-f65f-43bf-8cfa-de8deb21d03f",
+            "type": "SP.Data.UserInfoItem"
+          },
+          "ID": 17,
+          "FirstName": "Krunal",
+          "LastName": "Patel",
+          "Title": "Krunal Patel"
+        },
+        "Id": 2,
+        "SessionId": 2,
+        "EmployeeLocation": "MSQ",
+        "EmployeeBusinessArea": "Head Office Retail",
+        "SessionBookingStatus": "Booked",
+        "ID": 2
+      },
+      {
+        "__metadata": {
+          "id": "52dce85d-dad6-4c2f-8c16-44021e4a74cf",
+          "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'9e565c40-d3b1-4168-8b12-9adcc57b28c3')/Items(3)",
+          "etag": "\"2\"",
+          "type": "SP.Data.SessionBookingListItem"
+        },
+        "Author": {
+          "__metadata": {
+            "id": "bc8f4038-cb48-4abb-8aa2-4736ca0fecef",
+            "type": "SP.Data.UserInfoItem"
+          },
+          "ID": 17,
+          "FirstName": "Krunal",
+          "LastName": "Patel",
+          "Title": "Krunal Patel"
+        },
+        "Id": 3,
+        "SessionId": 3,
+        "EmployeeLocation": "MSQ",
+        "EmployeeBusinessArea": "Head Office Retail",
+        "SessionBookingStatus": "Booked",
+        "ID": 3
+      },
+      {
+        "__metadata": {
+          "id": "942ea850-dd44-457f-ba1f-6b894a2f49db",
+          "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'9e565c40-d3b1-4168-8b12-9adcc57b28c3')/Items(4)",
+          "etag": "\"1\"",
+          "type": "SP.Data.SessionBookingListItem"
+        },
+        "Author": {
+          "__metadata": {
+            "id": "520d0e57-e08a-4bf5-bc51-368aac548fbc",
+            "type": "SP.Data.UserInfoItem"
+          },
+          "ID": 17,
+          "FirstName": "Krunal",
+          "LastName": "Patel",
+          "Title": "Krunal Patel"
+        },
+        "Id": 4,
+        "SessionId": 4,
+        "EmployeeLocation": "MSQ",
+        "EmployeeBusinessArea": "Head Office Retail",
+        "SessionBookingStatus": "Booked",
+        "ID": 4
+      },
+      {
+        "__metadata": {
+          "id": "405e8294-4d01-4c9a-84be-33346f0cbad6",
+          "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'9e565c40-d3b1-4168-8b12-9adcc57b28c3')/Items(5)",
+          "etag": "\"1\"",
+          "type": "SP.Data.SessionBookingListItem"
+        },
+        "Author": {
+          "__metadata": {
+            "id": "8a8b8854-9a3a-42fb-9f32-c1177c49ad1a",
+            "type": "SP.Data.UserInfoItem"
+          },
+          "ID": 17,
+          "FirstName": "Krunal",
+          "LastName": "Patel",
+          "Title": "Krunal Patel"
+        },
+        "Id": 5,
+        "SessionId": 1,
+        "EmployeeLocation": "MSQ",
+        "EmployeeBusinessArea": "IT",
+        "SessionBookingStatus": "Hold",
+        "ID": 5
+      },
+      {
+        "__metadata": {
+          "id": "4f79a55a-5c23-4963-b2ee-80f11c009dc5",
+          "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'9e565c40-d3b1-4168-8b12-9adcc57b28c3')/Items(6)",
+          "etag": "\"1\"",
+          "type": "SP.Data.SessionBookingListItem"
+        },
+        "Author": {
+          "__metadata": {
+            "id": "9fdd0e56-b254-460c-93d6-12b7b16027d6",
+            "type": "SP.Data.UserInfoItem"
+          },
+          "ID": 17,
+          "FirstName": "Krunal",
+          "LastName": "Patel",
+          "Title": "Krunal Patel"
+        },
+        "Id": 6,
+        "SessionId": 1,
+        "EmployeeLocation": "MSQ",
+        "EmployeeBusinessArea": "IT",
+        "SessionBookingStatus": "Hold",
+        "ID": 6
+      },
+      {
+        "__metadata": {
+          "id": "fe3ecf05-ebf5-4d46-bcdf-bb3e7eee1437",
+          "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'9e565c40-d3b1-4168-8b12-9adcc57b28c3')/Items(7)",
+          "etag": "\"1\"",
+          "type": "SP.Data.SessionBookingListItem"
+        },
+        "Author": {
+          "__metadata": {
+            "id": "134e97b6-bb74-47c7-8927-2dea0c579e3b",
+            "type": "SP.Data.UserInfoItem"
+          },
+          "ID": 17,
+          "FirstName": "Krunal",
+          "LastName": "Patel",
+          "Title": "Krunal Patel"
+        },
+        "Id": 7,
+        "SessionId": 1,
+        "EmployeeLocation": "MSQ",
+        "EmployeeBusinessArea": "IT",
+        "SessionBookingStatus": "Hold",
+        "ID": 7
+      },
+      {
+        "__metadata": {
+          "id": "d3c75801-5a51-4b68-8fbb-58280c8da0ed",
+          "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'9e565c40-d3b1-4168-8b12-9adcc57b28c3')/Items(8)",
+          "etag": "\"1\"",
+          "type": "SP.Data.SessionBookingListItem"
+        },
+        "Author": {
+          "__metadata": {
+            "id": "a1e48e05-979f-4bf8-a857-00f1ee95dd60",
+            "type": "SP.Data.UserInfoItem"
+          },
+          "ID": 17,
+          "FirstName": "Krunal",
+          "LastName": "Patel",
+          "Title": "Krunal Patel"
+        },
+        "Id": 8,
+        "SessionId": 1,
+        "EmployeeLocation": "MSQ",
+        "EmployeeBusinessArea": "IT",
+        "SessionBookingStatus": "Hold",
+        "ID": 8
+      },
+      {
+        "__metadata": {
+          "id": "23670e02-4fd6-474b-9f10-52408bd26d8a",
+          "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'9e565c40-d3b1-4168-8b12-9adcc57b28c3')/Items(9)",
+          "etag": "\"1\"",
+          "type": "SP.Data.SessionBookingListItem"
+        },
+        "Author": {
+          "__metadata": {
+            "id": "739271f1-a219-4070-a084-d9b78b75c9e7",
+            "type": "SP.Data.UserInfoItem"
+          },
+          "ID": 17,
+          "FirstName": "Krunal",
+          "LastName": "Patel",
+          "Title": "Krunal Patel"
+        },
+        "Id": 9,
+        "SessionId": 1,
+        "EmployeeLocation": "MSQ",
+        "EmployeeBusinessArea": "IT",
+        "SessionBookingStatus": "Hold",
+        "ID": 9
+      },
+      {
+        "__metadata": {
+          "id": "ca6f7b8c-eb82-441b-8779-715e47b6170f",
+          "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'9e565c40-d3b1-4168-8b12-9adcc57b28c3')/Items(10)",
+          "etag": "\"1\"",
+          "type": "SP.Data.SessionBookingListItem"
+        },
+        "Author": {
+          "__metadata": {
+            "id": "805302d5-101a-47b9-bb6c-ee9c629c9473",
+            "type": "SP.Data.UserInfoItem"
+          },
+          "ID": 17,
+          "FirstName": "Krunal",
+          "LastName": "Patel",
+          "Title": "Krunal Patel"
+        },
+        "Id": 10,
+        "SessionId": 1,
+        "EmployeeLocation": "MSQ",
+        "EmployeeBusinessArea": "IT",
+        "SessionBookingStatus": "Hold",
+        "ID": 10
+      },
+      {
+        "__metadata": {
+          "id": "74843b0f-3ac5-4cbd-8825-35616fbc3dfc",
+          "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'9e565c40-d3b1-4168-8b12-9adcc57b28c3')/Items(11)",
+          "etag": "\"1\"",
+          "type": "SP.Data.SessionBookingListItem"
+        },
+        "Author": {
+          "__metadata": {
+            "id": "848218d6-4529-4a6b-8d3d-ef57470be5f2",
+            "type": "SP.Data.UserInfoItem"
+          },
+          "ID": 17,
+          "FirstName": "Krunal",
+          "LastName": "Patel",
+          "Title": "Krunal Patel"
+        },
+        "Id": 11,
+        "SessionId": 1,
+        "EmployeeLocation": "MSQ",
+        "EmployeeBusinessArea": "IT",
+        "SessionBookingStatus": "Hold",
+        "ID": 11
+      },
+      {
+        "__metadata": {
+          "id": "99469b11-301f-4f10-89c1-125b081a91d7",
+          "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'9e565c40-d3b1-4168-8b12-9adcc57b28c3')/Items(12)",
+          "etag": "\"1\"",
+          "type": "SP.Data.SessionBookingListItem"
+        },
+        "Author": {
+          "__metadata": {
+            "id": "b681b17d-4a17-4520-87dd-7ce927c5ee8b",
+            "type": "SP.Data.UserInfoItem"
+          },
+          "ID": 17,
+          "FirstName": "Krunal",
+          "LastName": "Patel",
+          "Title": "Krunal Patel"
+        },
+        "Id": 12,
+        "SessionId": 1,
+        "EmployeeLocation": "MSQ",
+        "EmployeeBusinessArea": "IT",
+        "SessionBookingStatus": "Hold",
+        "ID": 12
+      },
+      {
+        "__metadata": {
+          "id": "74259aa4-8d83-4111-90fd-493df177dce8",
+          "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'9e565c40-d3b1-4168-8b12-9adcc57b28c3')/Items(13)",
+          "etag": "\"1\"",
+          "type": "SP.Data.SessionBookingListItem"
+        },
+        "Author": {
+          "__metadata": {
+            "id": "56be0b52-ae77-49a4-9a9e-2b252da8697f",
+            "type": "SP.Data.UserInfoItem"
+          },
+          "ID": 17,
+          "FirstName": "Krunal",
+          "LastName": "Patel",
+          "Title": "Krunal Patel"
+        },
+        "Id": 13,
+        "SessionId": 1,
+        "EmployeeLocation": "MSQ",
+        "EmployeeBusinessArea": "IT",
+        "SessionBookingStatus": "Hold",
+        "ID": 13
+      }
+    ]
+  }
+}

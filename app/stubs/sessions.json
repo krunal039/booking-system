@@ -1,0 +1,86 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "34ae4753-4013-462a-ae35-8410b4db750f",
+          "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'bc5fea3d-7dd3-45d9-a0bf-927b315ae194')/Items(1)",
+          "etag": "\"5\"",
+          "type": "SP.Data.SessionsListItem"
+        },
+        "Id": 1,
+        "SessionTitle": "Session-1",
+        "SessionDescription": "<div class=\"ExternalClassA66AAC76A26D45BD853DF8A577D56C4B\"><p>S\u200bession 1 <span style=\"line-height&#58;20.8px;\">Description</span>\u200b<br></p></div>",
+        "SessionStartDate": "2016-05-23T20:00:00Z",
+        "SessionSeats": 5,
+        "SessionLocation": "<div class=\"ExternalClassD4166181B5EB4E9D92B6E3E3B903531C\">James Bond Office<br></div>",
+        "SessionEndDate": "2016-05-23T21:00:00Z",
+        "ID": 1
+      },
+      {
+        "__metadata": {
+          "id": "e676e173-ec8b-423b-b208-c20d91610b91",
+          "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'bc5fea3d-7dd3-45d9-a0bf-927b315ae194')/Items(2)",
+          "etag": "\"4\"",
+          "type": "SP.Data.SessionsListItem"
+        },
+        "Id": 2,
+        "SessionTitle": "Session-2",
+        "SessionDescription": "<div class=\"ExternalClass510AB3BD637546D6BAC94EB1E35AF4A3\"><p>Session 2 Description\u200b\u200b\u200b<br></p></div>",
+        "SessionStartDate": "2016-05-23T21:00:00Z",
+        "SessionSeats": 100,
+        "SessionLocation": "<div class=\"ExternalClassD03074F754F74D6EB485BCC2C672D0D7\"><p>C\u200bhuck Norros Office<br></p></div>",
+        "SessionEndDate": "2016-05-23T22:00:00Z",
+        "ID": 2
+      },
+      {
+        "__metadata": {
+          "id": "4036568f-1c26-4a26-b22e-7338a270a254",
+          "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'bc5fea3d-7dd3-45d9-a0bf-927b315ae194')/Items(3)",
+          "etag": "\"5\"",
+          "type": "SP.Data.SessionsListItem"
+        },
+        "Id": 3,
+        "SessionTitle": "Session-3",
+        "SessionDescription": "<div class=\"ExternalClassE2E65D5D8D3F4393858AA03A68019113\"><span style=\"line-height&#58;20.8px;\">Session 3 Description\u200b\u200b</span><span style=\"line-height&#58;20.8px;\">\u200b</span><br></div>",
+        "SessionStartDate": "2016-05-24T19:00:00Z",
+        "SessionSeats": 100,
+        "SessionLocation": "<div class=\"ExternalClass2852D598F4EC445B9530669AFC1ED68A\"><p>Jack Russell Terrier\u200b Office\u200b<br><br></p></div>",
+        "SessionEndDate": "2016-05-24T20:00:00Z",
+        "ID": 3
+      },
+      {
+        "__metadata": {
+          "id": "945fdc16-7740-41ab-8380-d1b8e27f1662",
+          "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'bc5fea3d-7dd3-45d9-a0bf-927b315ae194')/Items(4)",
+          "etag": "\"3\"",
+          "type": "SP.Data.SessionsListItem"
+        },
+        "Id": 4,
+        "SessionTitle": "Session-4",
+        "SessionDescription": "<div class=\"ExternalClassE2E65D5D8D3F4393858AA03A68019113\"><span style=\"line-height&#58;20.8px;\">Session 4&#160;Description\u200b\u200b</span><span style=\"line-height&#58;20.8px;\">\u200b</span><br></div>",
+        "SessionStartDate": "2016-05-24T20:00:00Z",
+        "SessionSeats": 100,
+        "SessionLocation": "<div class=\"ExternalClass2344998F82524ED1A6C488D6A1F51E09\"><p>\u200bIron man's Office<br></p></div>",
+        "SessionEndDate": "2016-05-23T21:00:00Z",
+        "ID": 4
+      },
+      {
+        "__metadata": {
+          "id": "ba229fb2-0a81-4c84-89f3-22bef45a2443",
+          "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'bc5fea3d-7dd3-45d9-a0bf-927b315ae194')/Items(5)",
+          "etag": "\"3\"",
+          "type": "SP.Data.SessionsListItem"
+        },
+        "Id": 5,
+        "SessionTitle": "Session-5",
+        "SessionDescription": "<div class=\"ExternalClassE2E65D5D8D3F4393858AA03A68019113\"><span style=\"line-height&#58;20.8px;\">Session 5 Description\u200b\u200b</span><span style=\"line-height&#58;20.8px;\">\u200b</span><br></div>",
+        "SessionStartDate": "2016-05-25T20:00:00Z",
+        "SessionSeats": 100,
+        "SessionLocation": "<div class=\"ExternalClass2344998F82524ED1A6C488D6A1F51E09\"><p>Ms Office\u200b<br><br></p></div>",
+        "SessionEndDate": "2016-05-23T21:00:00Z",
+        "ID": 5
+      }
+    ]
+  }
+}

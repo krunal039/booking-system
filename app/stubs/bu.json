@@ -1,0 +1,21 @@
+{
+  "d": {
+    "__metadata": {
+      "id": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'9e565c40-d3b1-4168-8b12-9adcc57b28c3')/Fields(guid'96adf2a8-8c86-49bf-a20a-88660373c130')",
+      "uri": "https://kmpdev.sharepoint.com/sites/hrsshelpline/_api/Web/Lists(guid'9e565c40-d3b1-4168-8b12-9adcc57b28c3')/Fields(guid'96adf2a8-8c86-49bf-a20a-88660373c130')",
+      "type": "SP.FieldChoice"
+    },
+    "Choices": {
+      "__metadata": {
+        "type": "Collection(Edm.String)"
+      },
+      "results": [
+        "IT",
+        "Food",
+        "GM",
+        "Test-1",
+        "Test-2"
+      ]
+    }
+  }
+}
